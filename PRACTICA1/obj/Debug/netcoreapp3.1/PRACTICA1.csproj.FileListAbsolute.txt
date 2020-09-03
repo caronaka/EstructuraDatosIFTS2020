@@ -1,0 +1,13 @@
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\bin\Debug\netcoreapp3.1\PRACTICA1.exe
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\bin\Debug\netcoreapp3.1\PRACTICA1.deps.json
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\bin\Debug\netcoreapp3.1\PRACTICA1.runtimeconfig.json
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\bin\Debug\netcoreapp3.1\PRACTICA1.runtimeconfig.dev.json
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\bin\Debug\netcoreapp3.1\PRACTICA1.dll
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\bin\Debug\netcoreapp3.1\PRACTICA1.pdb
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\obj\Debug\netcoreapp3.1\PRACTICA1.csprojAssemblyReference.cache
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\obj\Debug\netcoreapp3.1\PRACTICA1.AssemblyInfoInputs.cache
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\obj\Debug\netcoreapp3.1\PRACTICA1.AssemblyInfo.cs
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\obj\Debug\netcoreapp3.1\PRACTICA1.csproj.CoreCompileInputs.cache
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\obj\Debug\netcoreapp3.1\PRACTICA1.dll
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\obj\Debug\netcoreapp3.1\PRACTICA1.pdb
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA1\obj\Debug\netcoreapp3.1\PRACTICA1.genruntimeconfig.cache
