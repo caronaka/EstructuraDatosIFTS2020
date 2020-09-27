@@ -30,8 +30,8 @@ namespace PRACTICA._3
             //1 Crea un programa que pida al usuario su identificador y su contraseña (ambos numéricos), y no le permita seguir hasta que introduzca como identificador &quot; 1234 & quot; y como contraseña & quot; 1111 & quot;.
 
             /*
-            int identif;
-            int contra;
+            int identif;  
+            int contra; 
 
             Console.WriteLine("Ingrese identificador: ");
             identif = Convert.ToInt32(Console.ReadLine());
@@ -50,6 +50,33 @@ namespace PRACTICA._3
             }
             Console.ReadKey();
             */
+
+
+
+
+            //1 HECHO POR PROFE
+
+            /*
+            int id = 1234;  
+            int pass = 1111;
+            int idUser = 0;
+            int passUser = 0;
+
+            do
+            {
+                Console.WriteLine("Ingrese id (numeros enteros): ");
+                idUser = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Ingrese clave(numeros enteros): ");
+                passUser = Convert.ToInt32(Console.ReadLine());
+
+            } while (id != idUser || pass != passUser);
+
+            Console.WriteLine("Ingrese correctamente!!");
+
+            Console.ReadKey();
+            */
+
+
 
 
 
@@ -127,22 +154,22 @@ namespace PRACTICA._3
 
             //6 6: ¿Cuál sería el resultado de las siguientes operaciones? a=5; b=++a; c=a++; b=b*5;
             //a = a * 2; Crea un programa que lo resuelva.
-
             /*
+            
             int a = 5;
-            Console.WriteLine(a);
+            Console.WriteLine("La a vale {0} ",a);
             int b = ++a;
-            Console.WriteLine(b);
+            Console.WriteLine("Ahora a vale {0} y b vale {1}", a, b);
             int c = a++;
             //Da 6 porque esta tomando la a++ del anterior, que seria 6
-            Console.WriteLine(c);
+            Console.WriteLine("Ahora a vale {0} y c vale {1}", a, c);
 
-            Console.WriteLine(a = a*2);//7*2 tene en cuenta que el valor de a va cambiando
-            Console.WriteLine(b = b*5); //6*5
+            Console.WriteLine("Ahora a vale {0} ", a = a*2);//7*2 tene en cuenta que el valor de a va cambiando
+            Console.WriteLine("Ahora b vale {0} ", b = b*5); //6*5
 
             Console.ReadKey();
+            
             */
-
 
 
             //7 ¿Cuál sería el resultado de las siguientes operaciones? a=5; b=a+2; b-=3; c=-3; c*=2;
@@ -193,28 +220,31 @@ namespace PRACTICA._3
             //debe introducir dos veces. Si las dos contraseñas no son iguales, se avisará al usuario y se le
             //volverán a pedir las dos contraseñas.
 
-            /*
-             
+            
+             /*
             string usuario;
-            string contra1 = "1";
-            string contra2 = "0";
+            string contra1 ;
+            string contra2 ;
 
             Console.WriteLine("Usuario: ");
             usuario = Console.ReadLine();
+            Console.WriteLine("Constrasena: ");
+            contra1 = Console.ReadLine();
+            Console.WriteLine("Repita contrasena: ");
+            contra2 = Console.ReadLine();
 
             while (contra2 != contra1)
             {
-
+                Console.WriteLine("Las contrasenas no coinciden. ");
                 Console.WriteLine("Constrasena: ");
                 contra1 = Console.ReadLine();
                 Console.WriteLine("Repita contrasena: ");
                 contra2 = Console.ReadLine();
-
             }
 
             Console.ReadKey();
-
-            */
+             */
+            
 
 
             //10 Crear un programa que pida al usuario su nombre, y le diga &quot;Hola&quot; si se llama

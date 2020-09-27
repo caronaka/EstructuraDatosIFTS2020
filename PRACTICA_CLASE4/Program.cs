@@ -166,7 +166,7 @@ namespace PRACTICA_CLASE4
             {
 
                 int i;
-                for (i = 2; i < n;)
+                for (i = 2; i < n;) //si pongo 1++ me rita error
 
                     if (n % i == 0)
                     {

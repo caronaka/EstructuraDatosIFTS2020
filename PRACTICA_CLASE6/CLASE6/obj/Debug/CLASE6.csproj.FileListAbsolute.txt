@@ -1,0 +1,7 @@
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE6\CLASE6\bin\Debug\CLASE6.exe.config
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE6\CLASE6\bin\Debug\CLASE6.exe
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE6\CLASE6\bin\Debug\CLASE6.pdb
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE6\CLASE6\obj\Debug\CLASE6.csprojAssemblyReference.cache
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE6\CLASE6\obj\Debug\CLASE6.csproj.CoreCompileInputs.cache
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE6\CLASE6\obj\Debug\CLASE6.exe
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE6\CLASE6\obj\Debug\CLASE6.pdb

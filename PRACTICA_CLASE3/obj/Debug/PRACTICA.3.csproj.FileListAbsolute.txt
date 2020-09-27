@@ -1,0 +1,7 @@
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE3\bin\Debug\PRACTICA.3.exe.config
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE3\bin\Debug\PRACTICA.3.exe
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE3\bin\Debug\PRACTICA.3.pdb
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE3\obj\Debug\PRACTICA.3.csprojAssemblyReference.cache
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE3\obj\Debug\PRACTICA.3.csproj.CoreCompileInputs.cache
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE3\obj\Debug\PRACTICA.3.exe
+C:\Users\Caro\Desktop\IFTS\REPO_EDD\PRACTICA_CLASE3\obj\Debug\PRACTICA.3.pdb
